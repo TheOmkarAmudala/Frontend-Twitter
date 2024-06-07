@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="18fdbcbc-1be5-4537-9c3c-90483ee66ed6" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="name" />
+                    <option name="value" value="omkar" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="username" />
+                    <option name="value" value="omkaramudala" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="email" />
+                    <option name="value" value="omakramudala2@gmail.com" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="password" />
+                    <option name="value" value="ajfniufebujf" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:3000/api/v1/user/register?name=omkar&amp;username=omkaramudala&amp;email=omakramudala2@gmail.com&amp;password=ajfniufebujf" />
+            </requestState>
+            <requestState>
+              <option name="id" value="3fcfd880-9436-4028-b063-273b7f5c4565" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft 1" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="name" />
+                    <option name="value" value="df" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="email" />
+                    <option name="value" value="dfvs" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="username " />
+                    <option name="value" value="skfm gaaru" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="password " />
+                    <option name="value" value="ojmfej" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:3000/api/v1/user/register?name=df&amp;email=dfvs&amp;username =skfm gaaru&amp;password =ojmfej" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Devara&quot;,&#10;  &quot;username&quot;: &quot;Devara&quot;,&#10;  &quot;email&quot;: &quot;NTR@gmail.com&quot;,&#10;  &quot;password&quot;: &quot;Amudala@66527&quot;&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b3f66ff2-3786-4f4f-bf2e-c35769c059d2" />
+              <option name="method" value="POST" />
+              <option name="name" value="Register" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="name" />
+                    <option name="value" value="&quot;mnb k&quot;" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="username" />
+                    <option name="value" value="&quot;;.,ml&quot;" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="email" />
+                    <option name="value" value="&quot;kjhijlj&quot;" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="password" />
+                    <option name="value" value="&quot;kmpo; kj&quot;" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:3000/api/v1/user/register?name=&quot;mnb k&quot;&amp;username=&quot;;.,ml&quot;&amp;email=&quot;kjhijlj&quot;&amp;password=&quot;kmpo; kj&quot;" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;email&quot;: &quot;Thingari@gmail.com&quot;,&#10;  &quot;password&quot;: &quot;Amudala@66527&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="466945d4-985c-41d1-8d35-68d9c85e5e6c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Login" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="email" />
+                    <option name="value" value="omkr" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="password" />
+                    <option name="value" value="ghhhh" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:3000/api/v1/user/login?email=omkr&amp;password=ghhhh" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;email&quot;: &quot;Omkaramudala2@gmail.com&quot;,&#10;  &quot;password&quot;: &quot;Amudala@66527&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0d683a69-244f-4a6e-9504-7d56aa085cae" />
+              <option name="method" value="GET" />
+              <option name="name" value="logout" />
+              <option name="url" value="http://localhost:3000/api/v1/user/logout" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="  {&#10;    &quot;id&quot;: &quot;666185e5be0f540daf2a813e&quot;,&#10;    &quot;description&quot;: &quot;Hi, this is my first Tweet on This accoiunt &quot;&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="813d40b6-22cb-4521-aa6b-50520421af69" />
+              <option name="method" value="POST" />
+              <option name="name" value="createtweet" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="description" />
+                    <option name="value" value="first one" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="id" />
+                    <option name="value" value="jhb" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:3000/api/v1/tweet/createtweet" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="13cb1983-b30e-45b7-9700-c4d1c87a328d" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="deletetweet" />
+              <option name="url" value="http://localhost:3000/api/v1/tweet/deletetweet/66618b6bb86628ff716aba53" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8fbe2123-5f23-49a6-895f-9ee5ec3031c5" />
+              <option name="method" value="PUT" />
+              <option name="name" value="likes&amp;dislikes" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="tweetid" />
+                    <option name="value" value="66618b6bb86628ff716aba53" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:3000/api/v1/tweet/likesanddislikeds/66619463b86628ff716aba84" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;id&quot;: &quot;66163c924a7405088e1b3281&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0fbce1a1-7d6c-4631-8547-329042e54b3d" />
+              <option name="method" value="PUT" />
+              <option name="name" value="bookmark" />
+              <option name="url" value="http://localhost:3000/api/v1/user/bookmarks/661b9a5516a421de9c833cc2" />
+            </requestState>
+            <requestState>
+              <option name="id" value="7c2950d8-fa85-47c7-8bf7-df79d45974cf" />
+              <option name="method" value="GET" />
+              <option name="name" value="get my profile" />
+              <option name="url" value="http://localhost:3000/api/v1/user/profile/66483aa42345fd1062c0989f" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="36e3bd7c-b0dd-46b8-9938-d9d0d6999cee" />
+              <option name="method" value="GET" />
+              <option name="name" value="alluserids" />
+              <option name="url" value="http://localhost:3000/api/v1/user/all_profiles/6616702517da3d084c9d9bdd" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;id&quot;: &quot;666185e5be0f540daf2a813e&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e6cec638-7b68-46d6-b7c3-163e2ec17beb" />
+              <option name="method" value="GET" />
+              <option name="name" value="follow/unfollow" />
+              <option name="url" value="http://localhost:3000/api/v1/user/followers/6661657a0bf191758d98d70b" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f6514b3b-bcad-4228-94cf-f485a59f02c7" />
+              <option name="method" value="GET" />
+              <option name="name" value="getalltweets" />
+              <option name="url" value="http://localhost:3000/api/v1/user/getAllTweets/661e0a77cf2af3ba814d803d" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="7ad73021-b46e-4f6d-a846-7abc241d9d0c" />
+          <option name="name" value="New Collection" />
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="C:\Users\ASUS\Desktop\Twitter\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="7938ffd9-5c90-42f0-acfc-4eeaf3da022d" />
+  </component>
+</project>

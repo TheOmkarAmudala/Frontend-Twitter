@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoDBSettings">
+    <option name="configs">
+      <map>
+        <entry key="DATE_TIME_FORMAT" value="03/10/2004" />
+        <entry key="TIME_ZONE_KEY" value="Asia/Kolkata" />
+      </map>
+    </option>
+    <option name="serverConnections">
+      <set>
+        <ServerConnectionSetting>
+          <option name="authenticationMethod" value="NONE" />
+          <option name="name" value="twitter" />
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="tlsSslConnection" value="DEFAULT" />
+          <option name="uuid" value="cb33fbfe-6bd6-4691-9cf7-270533289c37" />
+        </ServerConnectionSetting>
+      </set>
+    </option>
+  </component>
+</project>
